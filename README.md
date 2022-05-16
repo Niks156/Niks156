@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nayan Garg
-#### A Front-end developer
+#### An enthusiastic front-end web developer with experience of React JS.
 
 Skills: REACT JS / Material UI / Bootstrap / JS / HTML / CSS / Netlify Hosting Service
 
